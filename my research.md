@@ -2,11 +2,11 @@
 
 ## Purpose
 
-This file has 2 intentions
+I have forked this document of proad definitions from d-prieto, and got access to it via:
+https://docs.google.com/document/d/e/2PACX-1vQlPBhCd79yVp782DkCtBFcOQcG0dFDFVWIyLAc79SXiGIXxF3YMStokBo1CiQ0nCqiCgNmOBSPY-RK/pub
 
-1st is going to allow the students know the dynamic of how to use github and start editing information in markdown in this repository and start their research 
+Now I will work on the case study slowly.
 
-2nd is going to use more broad and basic terms that are used in the case study so they have a broad understanding before jumping in. 
 
   ## Definitions
 
